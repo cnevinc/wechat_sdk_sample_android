@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cnevinc/Documents/github/wechat_sdk_sample_android/app/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/cnevinc/Documents/github/wechat_sdk_sample_android/app/build/intermediates/pre-dexed/debug/libammsdk-903109282a2e221f44f41f628d98d2568d983cc8.jar" />
+    </item>
+
+</items>
